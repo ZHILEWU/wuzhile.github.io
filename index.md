@@ -1,19 +1,43 @@
 ## Welcome to GitHub Pages
+
+曾经让我熬夜苦学的java技术点滴
+
+基础框架：
 - jsp
 - servlet
 - struts2+hibernate+spring
 - spring cloud
 - spring boot
-- redis,cache
-- kafka,MQ
+
+缓存：
+- redis,memcached，guava cache
+
+消息中间件：
+- kafka,rabbitmq
+- zookeeper
+
+数据收集&实时处理：
+- flume
 - speak streaming
 - speak sql
 - flink
+- ELK(Elasticsearch , Logstash, Kibana)
+
+数据存储：
 - hadoop
 - hbase
-- ELK(Elasticsearch , Logstash, Kibana)
-- zookeeper
 - mysql
+
+运维&链路追踪：
+- Zabbix
+- Skywalking
+- Spring Cloud Sleuth
+
+### 学习空间
+热门博客：
+1. [科学空间](https://kexue.fm/)
+2. 
+
 
 ### Markdown
 
