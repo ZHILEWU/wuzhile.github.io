@@ -8,7 +8,7 @@
 基础框架：
 - jsp
 - servlet
-- struts2+hibernate+spring
+- struts2+hibernate/mybatis+spring mvc
 - spring cloud
 - spring boot
 
@@ -39,7 +39,7 @@
 ### 学习空间
 热门博客：
 1. [科学空间](https://kexue.fm/)
-2. 
+2. [并发编程](https://ifeve.com/overview/)
 
 
 ### Markdown
