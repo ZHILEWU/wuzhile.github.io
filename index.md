@@ -1,5 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome
 
+十年工作技术点滴，记录曾经撸过的技术。。。
+
+## 撸过的技术
 曾经让我熬夜苦学的java技术点滴
 
 基础框架：
